@@ -154,12 +154,38 @@ Once reviewed for specification compliance, your library may be added to this se
 
 ---
 
+## Changelog
+
+All notable changes to the JSONSQL specification are documented and versioned.
+
+➡️ **[CHANGELOG.md](./CHANGELOG.md)**
+
+Any change that affects the JSONSQL contract will be recorded there to maintain transparency and backward compatibility.
+
+
+---
+
+## Contributing
+
+Contributions are welcome, but please note that this repository is maintained as a
+**SPECIFICATION / CONTRACT** repository.
+
+Before submitting a pull request, make sure to read the contribution guidelines:
+
+➡️ **[CONTRIBUTING.md](./CONTRIBUTING.md)**
+
+This helps ensure that all changes preserve the stability and integrity of the JSONSQL specification.
+
+--- 
+
+
 ## Author
 
 **Herlangga Sefani Wijaya**  
 Software Engineer & System Architect  
 GitHub: https://github.com/gaibz
 
+---
 
 ## Contributors
 
